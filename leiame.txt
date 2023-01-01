@@ -1,0 +1,8 @@
+Neste projeto que sou eu
+meu programador teve que criar um script para que eu pudesse ler isto
+caso você tivesse alguma dificuldade de leitura. 
+Ele não tinha a menor ideia de como fazer isso, então ele pesquisou e conseguiu me desenvolver.
+É assim que os programadores fazem.
+Consultam documentações e artigos sobre o que ainda não sabem para poder desenvolver.
+Pesquisam suas dúvidas até encontrar a solução.
+Eles tem um HD na cabeça chamado cérebro, mas muita coisa sai da memória cache deles e se perde em algum lugar.
